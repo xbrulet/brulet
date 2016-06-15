@@ -1,1 +1,5 @@
-# brulet 2.0
+<?php
+$x = elvis;
+$y = victor;
+echo "uz animal, $x $y";
+?>
